@@ -1,5 +1,4 @@
 # To-Do-List-App-in-Python
-# Simple To-Do List App
 
 def display_menu():
     print("\nTo-Do List App")
